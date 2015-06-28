@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E08P04.svg"
@@ -43,14 +43,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1022"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.45740262"
-     inkscape:cx="1338.5209"
-     inkscape:cy="2726.8245"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:cx="1304.6339"
+     inkscape:cy="98.942745"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3" />
   <g
@@ -59,13 +59,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="D:\Peter\PepperAndCarot\peppercarrot_ep08_translation-master\nl\../gfx_Pepper-and-Carrot_by-David-Revoy_E08P04.png"
+       sodipodi:absref="/home/th0rgall/Pictures/p&amp;p_git/peppercarrot_ep08_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E08P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E08P04.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -115,7 +115,9 @@
            y="265.53046"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Lavi;-inkscape-font-specification:Lavi" /></flowRegion><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
-         id="flowPara3372">Maar ik weet zeker ...</flowPara><flowPara
+         id="flowPara3372">Maar ik weet <flowSpan
+   style="-inkscape-font-specification:'Lavi Italic';font-family:Lavi;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="flowSpan4150">zeker</flowSpan> ...</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
          id="flowPara5473">Ik weet het heel</flowPara><flowPara
          style="font-size:48px;text-align:center;text-anchor:middle"
